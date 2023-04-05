@@ -4,8 +4,7 @@ Cryptocurrency Database
 
 A Relational Database (with the possibility of adding a non-relational database as well) on cryptocurrency data that allows for understanding the cryptocurrency market data on a deeper level. The ER Diagram below shows a more detailed description of the database and the content:
 
-![image](https://user-images.githubusercontent.com/101132853/230144215-82c69e92-6b12-4afc-a95b-b84ca8b65593.png)
-
+![Database ER diagram - Cryptocurrency](https://user-images.githubusercontent.com/101132853/230144423-a5f32e26-71fb-4578-91f1-eda8a7fd3441.png)
 
 
 The project will be completed in 4 phases:
