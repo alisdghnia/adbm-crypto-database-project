@@ -1,0 +1,344 @@
+ticker_name,ticker_url,ticker_exchange_name,ticker_exchange_tokenbalance,ticker_exchange_value,ticker_exchange_selection1,ticker_exchange_sevendaychange,ticker_exchange_threedaychange
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Binance,"421,388 BTC","$12,835,455,120 ","-7,270.97 BTC","+4,391.07 BTC","+51,783.36 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Bitfinex,"200,979 BTC","$6,121,802,409 ",-587.35 BTC,"+6,746.14 BTC","+7,061.8 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,OKX(OKEx),"197,720 BTC","$6,022,552,347 ","+1,308.95 BTC","-9,630.41 BTC","-38,164.24 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Coincheck,"39,552.65 BTC","$1,204,769,110 ",-97.58 BTC,-297.11 BTC,-441.09 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Crypto.com Exchange,"30,279.07 BTC","$922,297,004 ",-157.83 BTC,+242.44 BTC,"-11,857.04 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Bybit,"27,020.73 BTC","$823,048,245 ",+268.7 BTC,-694.24 BTC,-305.27 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Bittrex,"21,405.4 BTC","$652,005,934 ",-370.4 BTC,"-1,315.02 BTC","-4,382.16 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Huobi Global,"17,128.06 BTC","$521,718,926 ",0 BTC,-0.019 BTC,-139.57 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Poloniex,"17,125.12 BTC","$521,629,124 ",-27.5 BTC,-57.29 BTC,+93.69 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,KuCoin,"14,684.44 BTC","$447,286,567 ",-460.23 BTC,-783.13 BTC,-517.71 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,BitMEX,"14,143.12 BTC","$430,797,866 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Bitget,"8,465.77 BTC","$257,866,465 ",+121.84 BTC,+219.58 BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Kraken,"7,576.53 BTC","$230,780,394 ",+189.22 BTC,+356.74 BTC,"+1,400.54 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Korbit,"5,960.15 BTC","$181,545,623 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,BigONE,"3,377.58 BTC","$102,880,904 ",-122.69 BTC,-120.01 BTC,-229.75 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,MEXC Global,"2,070.22 BTC","$63,058,893 ",0 BTC,+38.47 BTC,+152.09 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Phemex,"1,750.02 BTC","$53,305,399 ",0 BTC,BTC,-200 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,CoinSwitch,"1,419.32 BTC","$43,232,480 ",+2 BTC,-15 BTC,-42.55 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Jubi,720.32 BTC,"$21,941,076 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Bitstamp,527.03 BTC,"$16,053,301 ",0 BTC,BTC,"-1,513 BTC"
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,BitZ,300 BTC,"$9,138,257 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,CITEX,69.25 BTC,"$2,109,513 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,XT,16.85 BTC,"$513,435 ",-2.931 BTC,-2.888 BTC,+1.843 BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,WOO X,9.514 BTC,"$289,808 ",0 BTC,BTC,--
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Coinw,4.82 BTC,"$146,823 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,ZG.com,0.05544 BTC,"$1,688.62 ",0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Coinbase Pro,0.01396 BTC,$425.33 ,0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,Klickl(IDCM),0.001937 BTC,$59 ,0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,AEX,0 BTC,$0 ,0 BTC,BTC,BTC
+1 BTC,https://www.coincarp.com/currencies/bitcoin/,BKEX,0 BTC,$0 ,0 BTC,BTC,BTC
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Binance,"4,651,380 ETH","$9,801,389,298 ","+56,465.48 ETH","+31,737.1 ETH","+294,804 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Kraken,"1,827,423 ETH","$3,850,745,870 ","+2,867.41 ETH","+11,420.78 ETH","-46,919.99 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,OKX(OKEx),"1,221,581 ETH","$2,574,116,023 ","+8,749.74 ETH","-3,964.91 ETH","+13,811.48 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Bitfinex,"1,212,175 ETH","$2,554,296,585 ","-35,263.19 ETH","-41,692.02 ETH","+41,425.34 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Gemini,"424,635 ETH","$894,792,355 ","+2,220.77 ETH",-634.29 ETH,"-47,235.8 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Crypto.com Exchange,"289,838 ETH","$610,748,439 ",+344.38 ETH,"-6,780.77 ETH","-226,741 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Bithumb,"200,014 ETH","$421,470,303 ",0 ETH,ETH,-3.001 ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Bybit,"166,788 ETH","$351,456,590 ","+6,267.91 ETH","+12,623.13 ETH","+6,318.45 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,gate.io,"154,253 ETH","$325,042,414 ","-1,717.14 ETH","-5,651.11 ETH","-15,478.19 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,KuCoin,"148,820 ETH","$313,594,384 ","+1,176.81 ETH",+258 ETH,+681.08 ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Bittrex,"124,955 ETH","$263,306,087 ","-3,454.61 ETH","-11,389.08 ETH","-24,936.16 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Coinone,"91,002.94 ETH","$191,761,403 ",-982.65 ETH,"-1,642.98 ETH","-2,158.76 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Huobi Global,"86,417.9 ETH","$182,099,812 ",-7.498 ETH,-23.34 ETH,"-10,313.52 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,bitFlyer,"74,321.63 ETH","$156,610,548 ","-1,105 ETH",-860 ETH,"-5,355 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Binance.US,"72,064.22 ETH","$151,853,730 ",-376.59 ETH,-176.18 ETH,"-1,771.82 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Korbit,"57,516.63 ETH","$121,199,045 ",-650.38 ETH,-662.78 ETH,"-2,033.25 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Luno,"29,610.77 ETH","$62,395,816 ","+1,259.48 ETH",+274.63 ETH,"-2,117.93 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,IDEX,"17,137.03 ETH","$36,111,155 ",-1.513 ETH,-1.887 ETH,-10.32 ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Bitget,"15,554.5 ETH","$32,776,449 ",+100.12 ETH,+655.19 ETH,"+1,118.44 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Coinbase Pro,"15,085.56 ETH","$31,788,305 ","-9,588.24 ETH","-9,932.91 ETH","+1,740.61 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Curve,"14,392.89 ETH","$30,328,701 ",-30.44 ETH,-776.11 ETH,"-1,103.19 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,BitMEX,"13,055.71 ETH","$27,511,006 ",+382.42 ETH,+752.84 ETH,+253.72 ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,MEXC Global,"13,000.79 ETH","$27,395,283 ",-196.09 ETH,+675.08 ETH,"-1,254.47 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Poloniex,"11,012.88 ETH","$23,206,341 ",-454.27 ETH,-391.09 ETH,"-3,411.39 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,YoBit,"10,025.23 ETH","$21,125,179 ",-128.87 ETH,-60.34 ETH,"+1,996.99 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,BitZ,"10,001.08 ETH","$21,074,288 ",0 ETH,ETH,ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,CoinSwitch,"8,923.86 ETH","$18,804,370 ",-12.24 ETH,-12.27 ETH,-68.07 ETH
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Indodax,"5,729.62 ETH","$12,073,465 ",-353.57 ETH,-354.67 ETH,"-1,137.4 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,Phemex,"5,572.6 ETH","$11,742,591 ",0 ETH,ETH,"+3,499.99 ETH"
+2 ETH,https://www.coincarp.com/currencies/ethereum/,BigONE,"4,046.57 ETH","$8,526,950 ",-1.481 ETH,-432.13 ETH,-808.33 ETH
+3 USDT,https://www.coincarp.com/currencies/tether/,Binance,"2,703,092,503 USDT","$2,704,173,740 ","-103,723,060 USDT","+185,334,388 USDT","+14,742,633 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,OKX(OKEx),"1,584,032,065 USDT","$1,584,665,678 ","+21,313,474 USDT","+121,750,683 USDT","+726,522,161 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Bybit,"948,738,131 USDT","$949,117,626 ","-17,900,069 USDT","-34,434,988 USDT","+47,489,972 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,KuCoin,"608,805,664 USDT","$609,049,186 ","-7,468,798 USDT","+5,120,233 USDT","+47,218,663 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,MEXC Global,"379,755,841 USDT","$379,907,743 ","+8,205,738 USDT","+16,292,226 USDT","+88,840,271 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Bitfinex,"293,028,302 USDT","$293,145,514 ","-39,135,606 USDT","-184,656,077 USDT","-479,715,894 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,gate.io,"201,809,520 USDT","$201,890,244 ","-3,541,274 USDT","-2,376,392 USDT","+18,161,094 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Bitget,"179,867,851 USDT","$179,939,799 ","+1,112,343 USDT","+1,671,992 USDT","+437,782 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Huobi Global,"153,096,988 USDT","$153,158,227 ","+10,640,214 USDT","+34,453,152 USDT","+48,476,126 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,BitMEX,"141,023,221 USDT","$141,079,630 ","-1,265,444 USDT","-2,975,818 USDT","+4,774,962 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Crypto.com Exchange,"102,492,222 USDT","$102,533,219 ","-8,758,149 USDT","+19,867,352 USDT","+28,404,502 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Bittrex,"82,345,046 USDT","$82,377,984 ","+2,018 USDT","+10,683.84 USDT","-8,934,099 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Okcoin,"70,702,325 USDT","$70,730,606 ","+4,328,392 USDT","-14,366,826 USDT","+28,756,476 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Phemex,"46,650,075 USDT","$46,668,735 ",0 USDT,USDT,"-1,000,000 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Poloniex,"26,559,267 USDT","$26,569,891 ","-2,585.84 USDT","+599,112 USDT","-1,086,151 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Binance.US,"23,932,677 USDT","$23,942,250 ","+5,615,248 USDT","-11,062,049 USDT","+1,285,449 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Coinbase Pro,"14,532,249 USDT","$14,538,062 ","-10,753,414 USDT","-383,189 USDT","-1,827,881 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Coinlist Pro,"11,330,007 USDT","$11,334,539 ","+33,466.58 USDT","+322,662 USDT","-275,179 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Indodax,"11,074,688 USDT","$11,079,118 ","+1,303,500 USDT","+2,366,457 USDT","+2,323,693 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,YoBit,"5,941,017 USDT","$5,943,394 ","-75,133.07 USDT","+22,532.08 USDT","+249,274 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,AscendEX,"4,830,402 USDT","$4,832,334 ","+305,255 USDT","+184,862 USDT","+433,381 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,CoinSwitch,"3,332,901 USDT","$3,334,234 ","+39,185.56 USDT","+130,113 USDT","+12,101.43 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,WhiteBIT,"3,319,504 USDT","$3,320,832 ","+316,812 USDT","+2,021,448 USDT","-6,194,170 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Kuna,"3,277,399 USDT","$3,278,710 ",0 USDT,USDT,USDT
+3 USDT,https://www.coincarp.com/currencies/tether/,BitZ,"3,072,757 USDT","$3,073,986 ","+1,009 USDT","+5,341.92 USDT","+32,950.38 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Gemini,"3,039,098 USDT","$3,040,313 ","+364,493 USDT","-2,204,226 USDT","-240,237 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Coinw,"3,034,132 USDT","$3,035,346 ","+304,380 USDT","+466,113 USDT","+2,236,661 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,Bithumb,"2,984,758 USDT","$2,985,952 ","+13,117 USDT","+69,444.98 USDT","+428,355 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,CoinEx,"2,592,809 USDT","$2,593,846 ","-189,387 USDT","-696,494 USDT","-8,474,993 USDT"
+3 USDT,https://www.coincarp.com/currencies/tether/,BigONE,"2,207,734 USDT","$2,208,617 ","+48,676.86 USDT","+25,673.62 USDT","+457,103 USDT"
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Binance,"21,268.56 BNB","$7,007,352 ",+2.605 BNB,+14.43 BNB,"+12,030.85 BNB"
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Binance.US,"2,113.08 BNB","$696,199 ",+0.4487 BNB,+1.486 BNB,"+1,375.92 BNB"
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,gate.io,"1,228.67 BNB","$404,809 ",0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Crypto.com Exchange,116.87 BNB,"$38,506.81 ",0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,CoinExchange,73.09 BNB,"$24,081.85 ",0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,IDEX,25.22 BNB,"$8,309.06 ",0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,KuCoin,5.393 BNB,"$1,776.95 ",0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Huobi Global,2.1 BNB,$691.88 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Binance JEX,2 BNB,$658.95 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Indodax,2 BNB,$658.94 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,CoinEx,0.8132 BNB,$267.95 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Korbit,0.7 BNB,$230.62 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,AscendEX,0.3665 BNB,$120.78 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,BKEX,0.1615 BNB,$53.23 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Bitfinex,0.15 BNB,$49.42 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Kraken,0.15 BNB,$49.42 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,OKX(OKEx),0.15 BNB,$49.42 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Poloniex,0.15 BNB,$49.42 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Coinbase Pro,0.103 BNB,$33.93 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,MEXC Global,0.0501 BNB,$16.50 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Coinw,0.01628 BNB,$5.36 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,Hotbit,0.000595 BNB,$0.20 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,CREX24,0.000583 BNB,$0.19 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,BigONE,0.00000009 BNB,$0.00 ,0 BNB,BNB,BNB
+4 BNB,https://www.coincarp.com/currencies/binance-coin/,OTCBTC,0 BNB,$0 ,0 BNB,BNB,BNB
+5 USDC,https://www.coincarp.com/currencies/usdc/,Binance,"1,702,022,326 USDC","$1,700,490,506 ","-101,380,992 USDC","-50,025,132 USDC","-3,413,324,318 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Crypto.com Exchange,"320,821,962 USDC","$320,533,222 ","-21,948,888 USDC","-26,317,303 USDC","-388,209,681 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Coinbase Pro,"272,204,574 USDC","$271,959,590 ","+241,150,420 USDC","+60,626,822 USDC","+9,457,104 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Kraken,"173,675,022 USDC","$173,518,714 ","-4,792,993 USDC","-1,332,716 USDC","+40,291,946 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,OKX(OKEx),"146,447,433 USDC","$146,315,630 ","-20,055,650 USDC","+34,676,815 USDC","-214,155,149 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,KuCoin,"68,219,503 USDC","$68,158,106 ","-2,562,176 USDC","-2,064,699 USDC","-52,236,218 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Bitget,"45,185,876 USDC","$45,145,208 ","-281,837 USDC","-1,439,491 USDC","-6,000,961 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,MEXC Global,"43,836,988 USDC","$43,797,535 ","-187,855 USDC","+8,105,352 USDC","+2,261,338 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Huobi Global,"21,699,388 USDC","$21,679,858 ","+1,357,755 USDC","+2,740,384 USDC","-87,051,648 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Bitfinex,"21,295,193 USDC","$21,276,027 ","+363,834 USDC","+1,424,659 USDC","+2,937,138 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Bybit,"15,330,807 USDC","$15,317,009 ","-15,050,064 USDC","-13,592,571 USDC","-30,193,705 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Okcoin,"9,152,359 USDC","$9,144,122 ","-143,731 USDC","-8,116,550 USDC","-4,958,801 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Binance.US,"6,450,774 USDC","$6,444,968 ","+1,356,672 USDC","-4,883,210 USDC","-421,949 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Gemini,"5,972,947 USDC","$5,967,571 ","-1,932,552 USDC","-3,348,026 USDC","-14,488,162 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Coinlist Pro,"5,607,542 USDC","$5,602,495 ","-31,505.04 USDC","+1,628,505 USDC","-13,215,254 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Poloniex,"4,289,316 USDC","$4,285,456 ","-60,448.22 USDC","-175,186 USDC","-1,567,927 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Phemex,"3,326,581 USDC","$3,323,587 ",0 USDC,USDC,"-2,000,000 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,AscendEX,"1,542,205 USDC","$1,540,817 ","+17,869.46 USDC","+775,695 USDC","+23,847.67 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Indodax,"1,148,884 USDC","$1,147,850 ","+12,629.56 USDC","+21,574.53 USDC","+50,299.47 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,CEX.IO,"993,838 USDC","$992,943 ","-573,761 USDC","-503,226 USDC","-3,437,290 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,WhiteBIT,"956,296 USDC","$955,436 ","+762,199 USDC","+839,963 USDC","+491,691 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Kuna,"881,393 USDC","$880,600 ",0 USDC,USDC,USDC
+5 USDC,https://www.coincarp.com/currencies/usdc/,Bitrue,"563,804 USDC","$563,296 ","-60,699.12 USDC","-541,865 USDC","+75,731.55 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Remitano,"474,555 USDC","$474,128 ",-212.81 USDC,"+17,381.11 USDC","+231,298 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,WOO X,"428,220 USDC","$427,835 ","-946,878 USDC","-946,878 USDC",--
+5 USDC,https://www.coincarp.com/currencies/usdc/,ProBit Global,"423,480 USDC","$423,099 ",-69.72 USDC,"+2,488.78 USDC","-485,225 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Korbit,"337,718 USDC","$337,414 ","-5,861.76 USDC","+38,440.66 USDC","-55,010.81 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,gate.io,"290,740 USDC","$290,479 ","+8,727.51 USDC","+16,077.72 USDC","-37,355,492 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,Hotbit,"177,940 USDC","$177,780 ",-241.01 USDC,"-12,056.07 USDC","-15,886.48 USDC"
+5 USDC,https://www.coincarp.com/currencies/usdc/,HitBTC,"172,267 USDC","$172,112 ",0 USDC,"+4,130 USDC","+4,130 USDC"
+6 XRP,https://www.coincarp.com/currencies/ripple/,Binance,"103,976,086 XRP","$54,670,626 ","-12,133.07 XRP","-281,328 XRP","+4,936,652 XRP"
+6 XRP,https://www.coincarp.com/currencies/ripple/,gate.io,"7,877.06 XRP","$4,141.75 ",0 XRP,XRP,XRP
+7 ADA,https://www.coincarp.com/currencies/cardano/,Binance,"30,189,916 ADA","$13,268,468 ","+1,710,251 ADA","+1,785,747 ADA","+5,466,985 ADA"
+7 ADA,https://www.coincarp.com/currencies/cardano/,gate.io,"8,735.65 ADA","$3,839.31 ",0 ADA,ADA,-115.11 ADA
+8 DOGE,https://www.coincarp.com/currencies/dogecoin/,Binance,"133,568,520 DOGE","$11,875,042 ","+5,092,450 DOGE","+24,963,809 DOGE","+54,837,678 DOGE"
+8 DOGE,https://www.coincarp.com/currencies/dogecoin/,MEXC Global,"4,284,116 DOGE","$380,883 ","+1,747,592 DOGE","+3,761,339 DOGE","+555,141 DOGE"
+8 DOGE,https://www.coincarp.com/currencies/dogecoin/,gate.io,"145,300 DOGE","$12,918.11 ",0 DOGE,"-6,416.64 DOGE","-8,470.87 DOGE"
+9 OKB,https://www.coincarp.com/currencies/okb/,OKX(OKEx),"8,114,711 OKB","$387,955,415 ",-662.06 OKB,+718.86 OKB,"+3,600,015 OKB"
+9 OKB,https://www.coincarp.com/currencies/okb/,gate.io,"29,380.7 OKB","$1,404,659 ",+695.38 OKB,+692.35 OKB,"+2,569.78 OKB"
+9 OKB,https://www.coincarp.com/currencies/okb/,Indodax,"6,791.2 OKB","$324,679 ",0 OKB,OKB,-5.045 OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,Hotbit,"4,929.71 OKB","$235,684 ",0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,Bitfinex,"4,637.72 OKB","$221,724 ",0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,AscendEX,"2,411.65 OKB","$115,298 ",0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,Poloniex,521.61 OKB,"$24,937.91 ",0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,MEXC Global,496.93 OKB,"$23,757.97 ",-0.8407 OKB,+5.538 OKB,-280.77 OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,ProBit Global,288.89 OKB,"$13,811.92 ",0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,Huobi Global,210.8 OKB,"$10,078.35 ",0 OKB,+6.399 OKB,+6.399 OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,HitBTC,0.2011 OKB,$9.62 ,0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,ZT,0.00000002 OKB,$0.00 ,0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,BitMart,0 OKB,$0 ,0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,CoinEx,0 OKB,$0 ,0 OKB,OKB,OKB
+9 OKB,https://www.coincarp.com/currencies/okb/,FTX,0 OKB,$0 ,0 OKB,OKB,OKB
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Binance,"395,614,041 MATIC","$460,969,481 ","-10,567,288 MATIC","+70,373,388 MATIC","+104,426,856 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,KuCoin,"24,901,876 MATIC","$29,015,666 ","+410,917 MATIC","+1,524,474 MATIC","+122,368 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Crypto.com Exchange,"24,639,076 MATIC","$28,709,451 ","+57,026.91 MATIC","+61,562.74 MATIC","-73,958,514 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Bitfinex,"17,516,206 MATIC","$20,409,883 ","-375,722 MATIC","-1,601,349 MATIC","-3,044,012 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Binance.US,"8,823,071 MATIC","$10,280,642 ","-219,363 MATIC","-282,495 MATIC","-5,845,728 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,OKX(OKEx),"7,952,266 MATIC","$9,265,981 ","+2,668,090 MATIC","+3,982,006 MATIC","+3,956,253 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Bybit,"6,628,255 MATIC","$7,723,243 ","+373,390 MATIC","+593,482 MATIC","-42,686.62 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Gemini,"5,187,935 MATIC","$6,044,982 ","-96,122.57 MATIC","-477,514 MATIC","+32,579.53 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,CoinSwitch,"5,183,509 MATIC","$6,039,824 ",0 MATIC,+0.0000000001 MATIC,"-98,381.75 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Kraken,"5,000,059 MATIC","$5,826,068 ",0 MATIC,-0.0000000005 MATIC,-0.0000000005 MATIC
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Coinbase Pro,"3,039,362 MATIC","$3,541,464 ","-1,026,257 MATIC","-795,210 MATIC","+489,593 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,gate.io,"2,531,412 MATIC","$2,949,601 ","+321,452 MATIC","+483,596 MATIC","-676,969 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Huobi Global,"2,438,308 MATIC","$2,841,117 ","-162,044 MATIC","-310,825 MATIC","-1,099,500 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,bitFlyer,"2,187,842 MATIC","$2,549,273 ","-21,767 MATIC","+34,735 MATIC","+225,721 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Poloniex,"1,830,496 MATIC","$2,132,894 ",-945.05 MATIC,"-28,784.04 MATIC","-15,671.97 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Indodax,"1,533,673 MATIC","$1,787,036 ","-45,215.7 MATIC","-15,745.76 MATIC","+200,899 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,MEXC Global,"1,235,191 MATIC","$1,439,245 ","-372,468 MATIC","-315,795 MATIC","-96,322.44 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Hotbit,"567,627 MATIC","$661,400 ",0 MATIC,MATIC,-534.5 MATIC
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Coinlist Pro,"369,340 MATIC","$430,355 ",-266.46 MATIC,"-2,975.89 MATIC","+77,997.02 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,ProBit Global,"266,187 MATIC","$310,161 ",0 MATIC,MATIC,+21.47 MATIC
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,AscendEX,"260,156 MATIC","$303,134 ","+18,979.29 MATIC","+24,036.61 MATIC","+134,937 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Bitget,"137,104 MATIC","$159,753 ","+18,017.27 MATIC","+36,663.32 MATIC","+37,445.96 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,IDEX,"95,609.42 MATIC","$111,404 ",0 MATIC,MATIC,MATIC
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,CoinEx,"93,152.52 MATIC","$108,541 ","+1,093.19 MATIC","+1,417.97 MATIC","+22,002.24 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Bitrue,"35,924.19 MATIC","$41,858.87 ","+1,940.11 MATIC","-313,135 MATIC","+30,517.92 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,WazirX,"26,395.85 MATIC","$30,756.45 ","-75,986.8 MATIC","-78,465.17 MATIC","-96,628.54 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,CEX.IO,"24,832.41 MATIC","$28,934.73 ","-25,100.11 MATIC","-34,151.4 MATIC","-15,662.93 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,LATOKEN,"10,000 MATIC","$11,652 ",0 MATIC,MATIC,MATIC
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,WhiteBIT,"7,405.45 MATIC","$8,628.83 ","+6,017.37 MATIC","+4,875.69 MATIC","+2,363.51 MATIC"
+10 MATIC,https://www.coincarp.com/currencies/matictoken/,Korbit,"6,136.1 MATIC","$7,149.78 ",0 MATIC,MATIC,--
+11 SOL,https://www.coincarp.com/currencies/solana/,,,,,,
+12 DOT,https://www.coincarp.com/currencies/polkadot100/,Binance,"8,202,856 DOT","$55,351,233 ","+11,107.18 DOT","-10,335.55 DOT","+58,817.05 DOT"
+12 DOT,https://www.coincarp.com/currencies/polkadot100/,gate.io,830.81 DOT,"$5,606.20 ",0 DOT,DOT,DOT
+13 LTC,https://www.coincarp.com/currencies/litecoin/,Binance,"320,685 LTC","$30,981,955 ",+299.76 LTC,+325.68 LTC,"+2,877.26 LTC"
+13 LTC,https://www.coincarp.com/currencies/litecoin/,gate.io,50.04 LTC,"$4,834.89 ",0 LTC,LTC,LTC
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Binance,"6,108,344,515 BUSD","$6,112,620,356 ","-72,847,730 BUSD","-1,122,765,042 BUSD","-2,228,719,991 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Bitget,"9,298,679 BUSD","$9,305,189 ","+1,055.21 BUSD","+51,049.35 BUSD","+5,156,312 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Binance.US,"6,724,680 BUSD","$6,729,388 ","+2,337.89 BUSD","+60,024.56 BUSD","-1,406,847 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Bybit,"3,556,274 BUSD","$3,558,764 ","+120,527 BUSD","+227,659 BUSD","-782,644 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,KuCoin,"3,372,443 BUSD","$3,374,804 ","+115,232 BUSD","+144,538 BUSD","-409,153 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Coinbase Pro,"1,195,528 BUSD","$1,196,365 ","+2,877.67 BUSD","+11,363.76 BUSD","+19,839.65 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Crypto.com Exchange,"510,559 BUSD","$510,917 ",+202.27 BUSD,+460.99 BUSD,"-2,805,195 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,MEXC Global,"373,637 BUSD","$373,898 ","+97,041.14 BUSD","+22,613.6 BUSD","+97,087.72 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Poloniex,"286,368 BUSD","$286,569 ","-10,001.71 BUSD","-8,815.64 BUSD","-11,990.81 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Gemini,"220,485 BUSD","$220,640 ","+1,812.79 BUSD","+1,144.53 BUSD","-110,208 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Hotbit,"36,958.3 BUSD","$36,984.17 ",0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Coinlist Pro,"32,369.4 BUSD","$32,392.06 ",0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,WazirX,"22,317.5 BUSD","$22,333.12 ",0 BUSD,"+11,048.24 BUSD","-17,791.66 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,OKX(OKEx),"17,064.05 BUSD","$17,075.99 ",0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,AscendEX,"15,987.99 BUSD","$15,999.19 ","+4,996 BUSD","+4,996 BUSD","+4,957.15 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,CEX.IO,"4,544.33 BUSD","$4,547.51 ",0 BUSD,-148 BUSD,"-91,756.32 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,gate.io,"1,466.76 BUSD","$1,467.79 ","-5,012,689 BUSD","-22,687,325 BUSD","-595,745 BUSD"
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Bilaxy,205 BUSD,$205.14 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,Kraken,49.72 BUSD,$49.76 ,0 BUSD,--,--
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,HitBTC,2.402 BUSD,$2.40 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,BitMEX,0.1274 BUSD,$0.13 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,ZT,0.00000002 BUSD,$0.00 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,BTSE,0 BUSD,$0 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,FTX,0 BUSD,$0 ,0 BUSD,BUSD,BUSD
+14 BUSD,https://www.coincarp.com/currencies/binanceusd/,FTX US,0 BUSD,$0 ,0 BUSD,BUSD,BUSD
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Binance,"87,063,748,390,671 SHIB","$982,949,719 ","+112,729,950,426 SHIB","+259,184,716,952 SHIB","+1,117,613,867,136 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,OKX(OKEx),"10,973,982,497,065 SHIB","$123,896,262 ","+149,702,873,211 SHIB","+95,037,330,639 SHIB","+930,629,185,469 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Crypto.com Exchange,"9,379,377,094,451 SHIB","$105,893,167 ","-52,664,538,204 SHIB","-155,093,502,349 SHIB","-45,439,884,665,390 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,gate.io,"6,297,209,810,997 SHIB","$71,095,498 ","+7,967,307,865 SHIB","+25,877,618,897 SHIB","+40,708,146,878 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,KuCoin,"4,498,381,306,459 SHIB","$50,786,724 ","-26,517,190,537 SHIB","+1,732,110,716 SHIB","+5,712,055,597 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Binance.US,"3,341,682,885,333 SHIB","$37,727,599 ","-6,415,094,663 SHIB","+6,242,866,591 SHIB","-85,177,170,147 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Huobi Global,"1,813,138,134,654 SHIB","$20,470,329 ",0 SHIB,SHIB,"-3,258,928,588 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Indodax,"1,131,657,258,623 SHIB","$12,776,410 ","-5,091,649,284 SHIB","-1,211,070,337 SHIB","-13,741,770,906 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,CoinSwitch,"951,237,546,869 SHIB","$10,739,471 ",0 SHIB,"-921,160,349 SHIB","-921,160,349 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Bybit,"735,782,814,363 SHIB","$8,306,987 ","+5,674,262,737 SHIB","+26,520,655,590 SHIB","+211,313,242,685 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Coinbase Pro,"598,886,329,950 SHIB","$6,761,426 ","-5,293,842,170 SHIB","+46,034,577,932 SHIB","+140,194,903,694 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Poloniex,"589,410,210,906 SHIB","$6,654,441 ","-19,247,383 SHIB","-2,189,546,368 SHIB","-2,704,821,761 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Gemini,"340,030,526,961 SHIB","$3,838,944 ","-2,235,731,029 SHIB","+5,423,898,655 SHIB","+8,431,113,029 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,bitFlyer,"239,739,578,518 SHIB","$2,706,659 ","+3,186,979,596 SHIB","+51,885,797,409 SHIB",--
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Korbit,"148,391,604,707 SHIB","$1,675,341 ","-770,923,396 SHIB","-1,595,449,082 SHIB","-6,282,900,620 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Hotbit,"115,152,748,014 SHIB","$1,300,074 ","-235,500,000 SHIB","-6,656,789,694 SHIB","-53,280,042,431 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Bitfinex,"109,670,177,925 SHIB","$1,238,176 ","-597,933,211 SHIB","-1,695,366,537 SHIB","-3,844,727,096 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Bitget,"88,593,780,767 SHIB","$1,000,223 ","+3,073,905,809 SHIB","+4,987,728,824 SHIB","+13,122,667,390 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,MEXC Global,"34,966,436,327 SHIB","$394,771 ","+4,835,779,131 SHIB","+772,304,357 SHIB","-55,339,281,238 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Exmo,"34,588,888,814 SHIB","$390,508 ","-500,000,000 SHIB","+410,008,222 SHIB","-218,749,397 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,LATOKEN,"34,242,040,617 SHIB","$386,592 ",0 SHIB,"+221,689,238 SHIB","-995,730,772 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Coinw,"31,478,577,730 SHIB","$355,393 ",0 SHIB,SHIB,SHIB
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,ProBit Global,"29,907,127,451 SHIB","$337,651 ","+90,000,000 SHIB","-113,884,223 SHIB","-1,295,191,432 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,WhiteBIT,"27,761,996,668 SHIB","$313,432 ","-47,211,928 SHIB","+345,985,680 SHIB","-678,016,686 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Kuna,"26,608,657,319 SHIB","$300,411 ",0 SHIB,-0.000001 SHIB,-0.000001 SHIB
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,AscendEX,"20,086,335,783 SHIB","$226,774 ","+42,896,321 SHIB","-247,546,156 SHIB","-37,090,613 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Bitrue,"15,985,849,673 SHIB","$180,480 ","+2,233,280,542 SHIB","-172,153,145,874 SHIB","-162,281,762,153 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,WazirX,"7,534,678,023 SHIB","$85,066.51 ","-1,863,401,746 SHIB","-7,501,054,522 SHIB","-2,405,826,798 SHIB"
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,Bilaxy,"5,911,665,630 SHIB","$66,742.70 ",0 SHIB,+0.0000001 SHIB,+0.0000001 SHIB
+15 SHIB,https://www.coincarp.com/currencies/shibainu/,CEX.IO,"3,365,985,893 SHIB","$38,001.98 ","-475,990,707 SHIB","+2,486,968,362 SHIB","+1,259,293,355 SHIB"
+16 DAI,https://www.coincarp.com/currencies/dai/,Binance,"146,213,501 DAI","$146,374,336 ","-3,975,676 DAI","-3,746,002 DAI","-70,565,375 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Kraken,"17,646,042 DAI","$17,665,452 ","+775,483 DAI","+6,303,842 DAI","+3,846,140 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,OKX(OKEx),"7,875,853 DAI","$7,884,517 ","+149,210 DAI","-300,344 DAI","-4,775,297 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Crypto.com Exchange,"6,711,646 DAI","$6,719,028 ","+10,070.88 DAI","+1,631,926 DAI","+1,939,095 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,KuCoin,"5,484,209 DAI","$5,490,242 ","+162,390 DAI","+84,953.69 DAI","-628,151 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Coinbase Pro,"3,224,731 DAI","$3,228,278 ","-28,384.6 DAI","+24,983.45 DAI","+612,901 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Gemini,"2,161,611 DAI","$2,163,988 ","-295,653 DAI","-181,854 DAI","-2,166,432 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Huobi Global,"1,660,178 DAI","$1,662,004 ","+16,410.61 DAI","+66,986.71 DAI","-124,539,441 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Binance.US,"1,096,921 DAI","$1,098,127 ","+217,826 DAI","+70,049.42 DAI","-22,225.39 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Bitfinex,"947,269 DAI","$948,311 ","-71,754.19 DAI","-59,249.04 DAI","-320,696 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,gate.io,"908,262 DAI","$909,261 ","-205,988 DAI","+472,700 DAI","+385,246 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,MEXC Global,"804,573 DAI","$805,458 ","-9,131.23 DAI","-77,493.26 DAI","-188,849 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Bitget,"585,951 DAI","$586,596 ","+5,676.47 DAI","+107,993 DAI","-283,377 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Coinlist Pro,"248,864 DAI","$249,138 ","+104,000 DAI","+104,000 DAI","+101,438 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,AscendEX,"240,981 DAI","$241,246 ",0 DAI,-200 DAI,+981 DAI
+16 DAI,https://www.coincarp.com/currencies/dai/,BitMEX,"216,800 DAI","$217,038 ",0 DAI,DAI,"-152,616 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Poloniex,"175,629 DAI","$175,822 ",-519.13 DAI,-510.84 DAI,"-9,839.64 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,WhiteBIT,"168,536 DAI","$168,721 ","-39,992.62 DAI","-2,661.47 DAI","+85,931.67 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Bybit,"162,182 DAI","$162,361 ","+20,190.89 DAI","-2,182,032 DAI","-6,170,139 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Kuna,"155,239 DAI","$155,410 ",0 DAI,DAI,DAI
+16 DAI,https://www.coincarp.com/currencies/dai/,ProBit Global,"117,604 DAI","$117,733 ",+33.3 DAI,+33.3 DAI,+33.3 DAI
+16 DAI,https://www.coincarp.com/currencies/dai/,Korbit,"91,861.88 DAI","$91,962.93 ",0 DAI,DAI,"+24,000 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Indodax,"49,590.52 DAI","$49,645.07 ","+2,886.56 DAI","-11,841.81 DAI","+5,605.36 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Coinone,"44,240.38 DAI","$44,289.04 ",0 DAI,+1 DAI,-146.76 DAI
+16 DAI,https://www.coincarp.com/currencies/dai/,WOO X,"35,774.7 DAI","$35,814.05 ",0 DAI,DAI,--
+16 DAI,https://www.coincarp.com/currencies/dai/,CEX.IO,"27,546.04 DAI","$27,576.34 ",0 DAI,"-1,490 DAI","+17,883.4 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Hotbit,"12,569.31 DAI","$12,583.13 ",0 DAI,DAI,"-9,942.33 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Exmo,"10,539.19 DAI","$10,550.78 ",+519.13 DAI,"+1,419.13 DAI","+1,419.13 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Bitrue,"7,376.73 DAI","$7,384.85 ",0 DAI,"+2,462.48 DAI","-8,763.13 DAI"
+16 DAI,https://www.coincarp.com/currencies/dai/,Bibox,522.26 DAI,$522.84 ,0 DAI,DAI,-247.27 DAI
+17 AVAX,https://www.coincarp.com/currencies/avalanche/,Binance,"629,346 AVAX","$11,987,913 ",-648.09 AVAX,"+15,695.14 AVAX","+58,364.67 AVAX"
+17 AVAX,https://www.coincarp.com/currencies/avalanche/,gate.io,39.11 AVAX,$745 ,-1.263 AVAX,-1.263 AVAX,-2.139 AVAX
+17 AVAX,https://www.coincarp.com/currencies/avalanche/,WOO X,10 AVAX,$190.48 ,0 AVAX,AVAX,--
+18 TRX,https://www.coincarp.com/currencies/tron/,Binance,"175,852,081 TRX","$11,654,772 ",0 TRX,TRX,TRX
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Binance,"26,137,137 UNI","$164,878,288 ","+128,542 UNI","+3,208,978 UNI","+3,162,030 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,OKX(OKEx),"8,484,344 UNI","$53,520,943 ","-34,224.73 UNI","-34,156.32 UNI","+383,117 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Kraken,"2,111,022 UNI","$13,316,748 ",0 UNI,-0.0000000001 UNI,-0.0000000001 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Huobi Global,"799,377 UNI","$5,042,634 ","+134,977 UNI","+95,529.96 UNI","-20,231.13 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Bitfinex,"592,033 UNI","$3,734,668 ","+13,859.71 UNI","+47,373.55 UNI","+27,703.04 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Bybit,"566,431 UNI","$3,573,165 ","+12,811.28 UNI","+78,630.21 UNI","+110,535 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,gate.io,"490,831 UNI","$3,096,265 ","+5,271.19 UNI","+5,908.71 UNI","-1,500.49 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Gemini,"476,606 UNI","$3,006,531 ","+39,517.57 UNI","+19,724.42 UNI","+27,859.79 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Coinbase Pro,"397,215 UNI","$2,505,713 ","+157,949 UNI","+89,646.22 UNI","-25,766.13 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Crypto.com Exchange,"282,731 UNI","$1,783,524 ","-1,503.88 UNI","-6,410.15 UNI","-398,976 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,KuCoin,"254,725 UNI","$1,606,857 ","-2,710.75 UNI","+2,324.1 UNI","-4,650.8 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Binance.US,"206,799 UNI","$1,304,533 ","+3,753.57 UNI","+23,746.44 UNI","-1,975.76 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Coinone,"89,488.92 UNI","$564,514 ",-3.828 UNI,-8.405 UNI,"+46,371.78 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Indodax,"83,882.56 UNI","$529,147 ",-453.11 UNI,+47.05 UNI,+428.46 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,CoinSwitch,"82,337.71 UNI","$519,402 ",0 UNI,UNI,"-1,632.72 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Poloniex,"79,062.79 UNI","$498,743 ",0 UNI,+383.7 UNI,+115.91 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Korbit,"73,902.6 UNI","$466,192 ",-4.481 UNI,-7.5 UNI,-7.5 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Bitget,"64,991.37 UNI","$409,978 ","+3,568.32 UNI","+11,442.94 UNI","+14,909.46 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,CEX.IO,"43,744.28 UNI","$275,947 ","-1,599 UNI","-3,195.93 UNI",-830.94 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Coinlist Pro,"25,568.34 UNI","$161,290 ",0 UNI,-17.35 UNI,"-1,243.44 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,MEXC Global,"25,524.21 UNI","$161,011 ","-1,445.65 UNI","+6,570.61 UNI","+9,458.28 UNI"
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Kuna,"17,830.09 UNI","$112,475 ",0 UNI,UNI,UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,AscendEX,"17,531.47 UNI","$110,592 ",-95.84 UNI,-235.35 UNI,-228.6 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Bitrue,"15,203.09 UNI","$95,904.14 ",0 UNI,+26.04 UNI,+222.95 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,ProBit Global,"7,883.27 UNI","$49,729.24 ",0 UNI,UNI,UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,LATOKEN,"6,187 UNI","$39,028.83 ",0 UNI,UNI,UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,ZB,"5,701.47 UNI","$35,966.06 ",0 UNI,UNI,UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,Hotbit,"4,070.08 UNI","$25,674.92 ",0 UNI,UNI,-88.08 UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,HitBTC,"3,944.06 UNI","$24,879.92 ",0 UNI,UNI,UNI
+19 UNI,https://www.coincarp.com/currencies/uniswap/,WazirX,"3,122.04 UNI","$19,694.45 ",0 UNI,UNI,"-1,864.74 UNI"
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Binance,"2,910.73 WBTC","$88,788,774 ",-359.75 WBTC,-266.7 WBTC,"-1,898.64 WBTC"
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,gate.io,"1,823.83 WBTC","$55,634,032 ",-8.932 WBTC,-8.232 WBTC,-0.219 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Crypto.com Exchange,167.25 WBTC,"$5,101,915 ",-4.742 WBTC,+27.85 WBTC,-89.61 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Coinbase Pro,84.44 WBTC,"$2,575,831 ",-20.29 WBTC,-135.52 WBTC,-79.37 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,OKX(OKEx),77.76 WBTC,"$2,372,158 ",-3.392 WBTC,+2.279 WBTC,-2.396 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Bitfinex,68.87 WBTC,"$2,101,013 ",-4.92 WBTC,+0.4645 WBTC,-18.21 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Binance.US,22.88 WBTC,"$698,207 ",+0.233 WBTC,-0.1191 WBTC,-3.334 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,KuCoin,22.22 WBTC,"$677,835 ",-1.351 WBTC,+0.9629 WBTC,-9.424 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Poloniex,22.05 WBTC,"$672,855 ",+0.0009 WBTC,+0.04925 WBTC,-1.026 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,MEXC Global,14.85 WBTC,"$453,028 ",-0.9934 WBTC,+7.883 WBTC,+0.5217 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Bybit,8.93 WBTC,"$272,406 ",-1.362 WBTC,-12.59 WBTC,-9.216 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Bitget,7.514 WBTC,"$229,212 ",+2.539 WBTC,+2.278 WBTC,-2.716 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Huobi Global,3.489 WBTC,"$106,439 ",-0.02896 WBTC,+0.08695 WBTC,+0.1018 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Korbit,3.449 WBTC,"$105,208 ",0 WBTC,WBTC,WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Bitrue,2.779 WBTC,"$84,765.65 ",0 WBTC,+2.157 WBTC,+2.738 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,ProBit Global,2.711 WBTC,"$82,711.26 ",0 WBTC,WBTC,WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Coinlist Pro,2.523 WBTC,"$76,971.60 ",+0.154 WBTC,+1.759 WBTC,+1.849 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,BTSE,1.791 WBTC,"$54,626.47 ",0 WBTC,WBTC,WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,CEX.IO,1.765 WBTC,"$53,837.58 ",0 WBTC,WBTC,+0.6004 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Indodax,1.103 WBTC,"$33,644.83 ",0 WBTC,+0.01658 WBTC,-0.01779 WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,BigONE,1.005 WBTC,"$30,661.04 ",0 WBTC,WBTC,WBTC
+20 WBTC,https://www.coincarp.com/currencies/wrapped-bitcoin/,Coinone,0.7176 WBTC,"$21,890.09 ",0 WBTC,-0.001969 WBTC,-0.002069 WBTC
