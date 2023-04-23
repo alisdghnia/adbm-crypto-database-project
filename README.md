@@ -28,3 +28,5 @@ Group Members:
 2.	Brooke Harris
 3.	Sai Pramod Kantheti
 4.	Sai Vinay Thattukolla
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/101132853/233867837-aab09af8-5ec1-48e1-83a4-9875885f342b.png)
