@@ -1,0 +1,22 @@
+create table MARKET_DATA
+(
+    TICKER_ID                 NUMBER
+        constraint "MARKET_DATA_TICKER_ID_fk"
+            references DIM_TICKER,
+    PRICE_USD                 NUMBER,
+    ONE_DAY_CHANGE_PERCENT    FLOAT,
+    SEVEN_DAY_CHANGE_PERCENT  FLOAT,
+    MARKET_CAP_USD            NUMBER,
+    VOLUME_USD                NUMBER,
+    CIRCULATING_SUPPLY        NUMBER,
+    FULL_MARKET_CAP_USD       NUMBER,
+    MAX_SUPPLY                NUMBER,
+    ONE_DAY_LOW_USD           NUMBER,
+    ONE_DAY_HIGH_USD          NUMBER,
+    VOLUME_MARKET_CAP_PERCENT FLOAT,
+    MARKET_DOMINANCE_PERCENT  FLOAT,
+    ONE_MONTH_ROI_PERCENT     FLOAT,
+    PRICE_CHANGE_USD          NUMBER
+)
+/
+
