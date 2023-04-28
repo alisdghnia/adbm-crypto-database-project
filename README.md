@@ -30,3 +30,11 @@ Group Members:
 4.	Sai Vinay Thattukolla
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/101132853/233867837-aab09af8-5ec1-48e1-83a4-9875885f342b.png)
+
+
+
+
+UPDATED ER DIAGRAM:
+
+
+![Final ER Diagram](https://user-images.githubusercontent.com/101132853/235190443-ecd39deb-e06f-4e14-babe-04d984c2ec19.png)
